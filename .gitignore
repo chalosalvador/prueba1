@@ -1,0 +1,6 @@
+# Excluir archivos PDF
+*
+
+!README.md
+!.gitignore
+!*.pdf
